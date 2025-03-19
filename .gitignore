@@ -4,6 +4,7 @@
 *.bak
 *.ini
 *.asv
+.DS_Store
 
 # ignore certain folders
 .private*/
