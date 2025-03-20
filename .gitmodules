@@ -1,0 +1,3 @@
+[submodule "Examples/Ground-Based_Astronomical_Observatory/TMT-SysML-Model"]
+	path = Examples/Ground-Based_Astronomical_Observatory/TMT-SysML-Model
+	url = https://github.com/Open-MBEE/TMT-SysML-Model
